@@ -1,5 +1,5 @@
 tagfile-mod
 add1
-add1.1
+add1.1--bugFix1
 add2
 add3
